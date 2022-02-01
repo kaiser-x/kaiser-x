@@ -67,14 +67,17 @@
 
 <br/>
 <br/>
-##Coding Profiles
+
+## 💻Coding Profiles
+
 <div align="center">
     <a href="https://www.hackerrank.com/tk45935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tk45935" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/imperial_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imperial_x" height="30" width="40" /></a>
 </div>
 <br/>
 <br/>
-## Connect with me:
+
+## ❣Connect with me:
 
 <p align="center">
 <a href = "https://www.linkedin.com/in/tarun-kumar-d-953b051a9/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
