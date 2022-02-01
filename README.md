@@ -52,8 +52,10 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/kaiser-x/github-readme-stats"><img alt="kaiser's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaiser-x&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/kaiser-x/github-readme-stats"><img alt="kaisers Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser-x&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <div align="center">
+    <a href="https://github.com/kaiser-x/github-readme-stats" display="inline"><img alt="kaiser's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaiser-x&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/kaiser-x/github-readme-stats" display="inline"><img alt="kaisers Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser-x&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    </div>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -67,13 +69,10 @@
 <br/>
 
 ## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/tarun-kumar-d-953b051a9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
-<!-- <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
-
+<p align="center">
+<a href = "https://www.linkedin.com/in/tarun-kumar-d-953b051a9/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:tk45935@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
 </p>
 
   ## ❤ Views and Followers
